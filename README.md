@@ -20,7 +20,7 @@ Curious about energy measurement, technology integration, and homelabbing.
 ## Projects
 
 ### EnergyTracer
-Measures energy consumption of code across hardware platforms (Mac M4, AWS r7i/r7g).  
+Measures energy consumption of code across hardware platforms (Mac M4, AWS r7i/r7g, etc.).  
 Multi-language support (Python & Java), dataset published on Zenodo, and a merged PR on [creedengo](https://github.com/green-code-initiative/creedengo-python).
 
 🔗 [Explore the project](https://github.com/fstormacq/EnergyTracer)
