@@ -8,7 +8,7 @@ Curious about energy measurement, technology integration, and homelabbing.
 > 2. I write things into a computer, sometimes it works.
 
 
-## 🛠 Tech
+## Tech
 
 **Languages & Frameworks**  
 `Java / Spring Boot` `Angular` `Svelte` `Python`
@@ -17,9 +17,9 @@ Curious about energy measurement, technology integration, and homelabbing.
 `Docker` `Tailscale` `SSH` `macOS` `Linux`
 
 
-## 🚀 Projects
+## Projects
 
-### ⚡ EnergyTracer
+### EnergyTracer
 Measures energy consumption of code across hardware platforms (Mac M4, AWS r7i/r7g).  
 Multi-language support (Python & Java), dataset published on Zenodo, and a merged PR on [creedengo](https://github.com/green-code-initiative/creedengo-python).
 
@@ -27,14 +27,14 @@ Multi-language support (Python & Java), dataset published on Zenodo, and a merge
 
 `Python` `Java` `AWS` `Green IT`
 
-### 🔀 Show My Sort
+### Show My Sort
 An interactive visual playground for understanding sorting algorithms — see them in action like never before.
 
 🔗 [Live Demo](https://main.dlulvt7cnai30.amplifyapp.com) · 📂 [GitHub](https://github.com/UNamurCSFaculty/2425_INFOB318_SMS_01)
 
 `JavaScript` `Algorithms`
 
-### 🏠 Homelab
+### Homelab
 Self-hosted infra on a Raspberry Pi + Mac Mini, stitched together with Tailscale.  
 Runs Uptime Kuma, ntfy, Portainer, and custom shell scripts.
 
